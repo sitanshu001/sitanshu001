@@ -1,7 +1,7 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code day ;) </h1> 
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
-🔭 working on mini projects
+- 🔭 working on mini projects
 <!--
 **sitanshu001/sitanshu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
