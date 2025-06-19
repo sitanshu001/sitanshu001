@@ -2,6 +2,7 @@
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
 - 🔭 working on mini projects
+- trying streamlit application
 <!--
 **sitanshu001/sitanshu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
