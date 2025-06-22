@@ -1,10 +1,10 @@
-<h1>👋 Hi Sitanshu Here!! I hope you having a code day ;) </h1> 
+<h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
 - 🔭 working on mini projects
 - trying streamlit application
-<h2>Professions</h2>
-<p color="red">
+<h2 color="red">Professions</h2>
+<p>
   <a href="">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdata-science-logo&psig=AOvVaw1Pi5-jrcn3k9iYLHPB98Xa&ust=1750695330777000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjhrMe2hY4DFQAAAAAdAAAAABAE" alt="Data Science Engineer" width="40" height="40" />
   </a>
