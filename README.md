@@ -1,11 +1,11 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
-- Certified Data Science Engineer
-- 🔭 Working on my dream projects as side hustle
-- Exploring Reactjs stuffs and pipelines 
+<p>- Certified Data Science Engineer</p>
+<p>- 🔭 Working on my dream projects as side hustle</p>
+<p>- Exploring Reactjs stuffs and pipelines</p>
 - insearch of internships 
-<p> if you are looking a fresher I would the one so please! </p>
+<p> if you are looking a fresher I would the one so please!</p>
 <h2 color="red">Professions</h2>
 <p>
   <a href="">
