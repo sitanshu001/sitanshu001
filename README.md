@@ -3,8 +3,9 @@
 <p>Hi myself Sitanshu Lets have a look</p>
 - Certified Data Science Engineer
 - 🔭 Working on my dream projects as side hustle
-- Exploring Reactjs stuffs
-
+- Exploring Reactjs stuffs and pipelines 
+- insearch of internships 
+<p> if you are looking a fresher I would the one so please! </p>
 <h2 color="red">Professions</h2>
 <p>
   <a href="">
