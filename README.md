@@ -1,8 +1,10 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
-- 🔭 working on mini projects
-- trying streamlit application
+- Certified Data Science Engineer
+- 🔭 Working on my dream projects as side hustle
+- Exploring Reactjs stuffs
+
 <h2 color="red">Professions</h2>
 <p>
   <a href="">
