@@ -1,4 +1,15 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
+
+<h3 align="center">Passionate to: 
+    <h2 align="center">
+        <ul class="lst">
+            <lib list-decoration: none>UI</li>
+            <li>ReactJs</li>
+            <li>Data Science</li>
+            <li>Software Developing</li>
+        </ul>
+    </h2>
+</h3>
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
 <p>- Certified Data Science Engineer</p>
