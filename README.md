@@ -2,8 +2,8 @@
 
 <h3 align="center">Passionate to: 
     <h2>
-        <ul class="lst">
-            <lib list-decoration: none>UI</li>
+        <ul class="list-none">
+            <li>UI</li>
             <li>ReactJs</li>
             <li>Data Science</li>
             <li>Software Developing</li>
