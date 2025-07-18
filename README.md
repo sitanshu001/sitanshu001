@@ -1,7 +1,7 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 
 <h3 align="center">Passionate to: 
-    <h2 align="center">
+    <h2 align="center" list-decoration="none">
         <ul class="list-none">
             <li>UI</li>
             <li>ReactJs</li>
