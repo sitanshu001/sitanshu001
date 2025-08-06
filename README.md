@@ -3,7 +3,7 @@
 <h3 align="center">Passionate to: 
     <h2 list-decoration="none">
         <ul class="list-none">
-            <li>UI</li>
+            <li>Web - UI/UX</li>
             <li>ReactJs</li>
             <li>Data Science</li>
             <li>Software Developing</li>
