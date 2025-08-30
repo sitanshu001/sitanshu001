@@ -15,7 +15,9 @@
 - <a href="https://sitanshu.42web.io">Portfolio</a>
 <p>- Certified Data Science Engineer</p>
 <p>- 🔭 Working on my dream projects as side hustle</p>
-<p>- project deadline within 10 days of August 2025 </p>
+<p>- Some Live Projects:</p>
+<p>- - <a href="https://insta-sheer.42web.io">Project - site-1</a></p>
+<!-- <p>- project deadline within 10 days of August 2025 </p> -->
 <p>- Exploring Reactjs stuffs and pipelines</p>
 - insearch of internships 
 <p> if you are looking a fresher I would the one so please!</p>
