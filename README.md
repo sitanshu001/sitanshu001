@@ -1,13 +1,13 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 
-<h3 align="center">Passionate to: 
-    <h2>
+<h2 align="center">Passionate to: 
+    <h3 align="center">
         <p>Web - UI/UX</p>
         <p>ReactJs</p>
         <p>Data Science</p>
         <p>Software Developing</p>
-    </h2>
-</h3>
+    </h3>
+</h2>
 <h3>Overview</h3>
 <p>Hi myself Sitanshu Lets have a look</p>
 - <a href="https://sitanshu.42web.io">Portfolio</a>
