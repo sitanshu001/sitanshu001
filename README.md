@@ -1,13 +1,11 @@
 <h1>👋 Hi Sitanshu Here!! I hope you having a code-yee day ;) </h1> 
 
 <h3 align="center">Passionate to: 
-    <h2 list-decoration="none">
-        <ul class="list-none">
-            <li>Web - UI/UX</li>
-            <li>ReactJs</li>
-            <li>Data Science</li>
-            <li>Software Developing</li>
-        </ul>
+    <h2>
+        <p>Web - UI/UX</p>
+        <p>ReactJs</p>
+        <p>Data Science</p>
+        <p>Software Developing</p>
     </h2>
 </h3>
 <h3>Overview</h3>
