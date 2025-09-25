@@ -14,8 +14,14 @@
 <p>- Certified Data Science Engineer</p>
 <p>- ReactJs Developer </p>
 <p>- 🔭 Working on my dream projects as side hustle</p>
-<p>- Some Live Projects:</p>
-<p>- <a href="https://insta-sheer.42web.io">Project - site-1</a></p>
+<p>- Some Live Projects:
+    <ul>
+        <li><a href="https://insta-sheer.42web.io">Project - instaSheer [live Project]</a></li>
+        <li><a href="https://custom-your-texts.streamlit.app/">Project - text Customizer(replacing words) [live Project]</a></li>
+        <li><a href="">Project - Data Analysis [Skill and Knowledge Project]</a></li>
+        <li><a href="">Project - Ai Agent Working Model [Skill and Knowledge Project]</a></li>
+    </ul>
+</p>
 <!-- <p>- project deadline within 10 days of August 2025 </p> -->
 <p>- Exploring Reactjs stuffs and pipelines</p>
 - insearch of internships 
